@@ -1,0 +1,7 @@
+//转义字符
+char tab ='\t';  //制表符
+char carriageReturn='\' ;   //回车
+char newLine='\n';   //换行
+char singQuote= '\'';//单引号
+char double='\"';双引号
+char backflash='\\';反斜杠
