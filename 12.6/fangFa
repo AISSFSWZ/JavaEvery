@@ -1,0 +1,26 @@
+public clasa Hero(){
+string name;
+float armor;
+int moveSpeed;
+
+void keng(){
+System.out.println("坑死爹了");
+}
+
+float armor(){
+return aemor;
+}
+
+//移速增加
+void addMoveSpeed(int Speed){
+moveSpeed=moveSpped+Speed
+}
+public static void main(String[]args){
+Hero lke = new Her();
+lks.moveSpeed=350;
+lks.addMovSpeed(100);
+System.out.println(lks.moveSpeed)
+//输出试试是不是移速————450  否则就是错误的
+
+}
+}
