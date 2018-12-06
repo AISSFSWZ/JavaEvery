@@ -1,0 +1,11 @@
+public class Item(){
+  String name;
+  int price;
+
+    public static void main(String[]args){
+    Item xueping =new Item();
+    xueping.price=50;
+    Item changJian =new Item();
+    changJian.price=350;
+    }
+}
