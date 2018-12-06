@@ -1,0 +1,12 @@
+面向对象——属性 练习题
+思考 ：这些属性怎么能不直接加入到英雄名下，而是直接打包，不需要在单独写
+解决方案：好像是 单独分开做封装，然后方法单独调用这些属性，但是怎么写 还是不知道。
+
+int kill;
+int killed；
+int zhuaGong；
+int jinBi;
+float buDaoSuDu;
+String killTalk;
+String killeTalk;
+
