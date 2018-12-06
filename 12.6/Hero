@@ -1,0 +1,20 @@
+public class Hero(){
+  String name;
+  float hp;
+  float armor;
+  int moveSpeed;
+
+    public static void main(String[] args){
+    Hero lks=new Her();
+    lks.name="雷克塞";
+    lks.hp=788;
+    lks.aemor=55;
+    lks.moveSpeed=385;
+
+    Hero my= new Hero();
+    my.name="梦魇"；
+    my.hp=780;
+    my.armor=56;
+    my.moveSpeed=375;
+    }
+}
